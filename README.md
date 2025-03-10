@@ -19,7 +19,8 @@ password : admin
 
 
 ##**DASHBOARD:**
-![WhatsApp Image 2025-02-23 at 18 47 01_37da6491](https://github.com/user-attachments/assets/37dc75cb-9d10-4d43-8dcd-3fd34c4713c5)
+![WhatsApp Image 2025-03-11 at 02 02 47_0bb73aaa](https://github.com/user-attachments/assets/7107dd97-a43d-437f-83f6-9ab9045e6ea7)
+
 .
 .
 .
@@ -28,11 +29,20 @@ password : admin
 
 
 **BRANDS:**
-![WhatsApp Image 2025-02-23 at 01 57 26_2bba498b](https://github.com/user-attachments/assets/9d152b86-a49d-4ade-a99b-7fbf2c105501)
+![image](https://github.com/user-attachments/assets/28656aa3-c272-44b3-b408-939ee5544f62)
+
 
 .
 .
 .
+**PRODUCTS:**
+![image](https://github.com/user-attachments/assets/28656aa3-c272-44b3-b408-939ee5544f62)
+
+
+.
+.
+.
+
 
 
 
