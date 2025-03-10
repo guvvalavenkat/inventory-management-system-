@@ -4,19 +4,8 @@
 
 Id : venky
 
-password : venky@123
+password : admin
 
-##**Login Credentials 2:**
-
-Id : aaa
-
-password : aaa@123
-
-##**Login Credentials 3:**
-
-Id : keerthi
-
-password : keerthi@123
 
 
 
