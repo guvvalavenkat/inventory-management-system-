@@ -1,4 +1,4 @@
-# Admin Requirement
+![image](https://github.com/user-attachments/assets/860c6d75-2ddb-485d-8430-9d568b3d9e28)# Admin Requirement
 
 ##**Login Credentials 1:**
 
@@ -36,7 +36,9 @@ password : admin
 .
 .
 **PRODUCTS:**
-![image](https://github.com/user-attachments/assets/28656aa3-c272-44b3-b408-939ee5544f62)
+![WhatsApp Image 2025-03-11 at 02 05 30_3dd5c828](https://github.com/user-attachments/assets/3bc54e2d-d2ad-4207-8378-c272ec96b99d)
+
+
 
 
 .
@@ -48,7 +50,8 @@ password : admin
 
 
 **ORDERS:**
-![WhatsApp Image 2025-02-23 at 01 49 29_2c5bc78b](https://github.com/user-attachments/assets/3b669d67-f136-44bd-92f0-6bd60d4b78cc)
+![WhatsApp Image 2025-02-23 at 01 49 29_5d85cedd](https://github.com/user-attachments/assets/dca754d5-6ac1-4b1c-89d7-07a5acfc7556)
+
 
 .
 .
@@ -58,6 +61,7 @@ password : admin
 
 
 **BILL:**
-![WhatsApp Image 2025-02-23 at 01 49 52_b1ba6f10](https://github.com/user-attachments/assets/d0e88db9-69b9-4c23-8e6b-4252af239120)
+![WhatsApp Image 2025-02-23 at 01 49 52_761d3ca4](https://github.com/user-attachments/assets/22b5c81c-d315-4411-a634-cd8761d351b1)
+
 
 
