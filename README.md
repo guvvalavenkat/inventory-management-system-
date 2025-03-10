@@ -1,26 +1,64 @@
-# Inventory Management System
-Amzing Project on Management System
-Check Demo Here : https://www.youtube.com/watch?v=9UZM8MmY1T8
+# Admin Requirement
 
--Open source inventory management system with php and mysql
+##**Login Credentials 1:**
 
--Invoice generation and easy to download invoice in PDF format
+Id : venky
 
--Lightweight and easy to use
+password : venky@123
 
--Order management and product management can be done with ease
+##**Login Credentials 2:**
 
--Report management
+Id : aaa
 
--User wise sell report.
+password : aaa@123
 
-# Requirement
+##**Login Credentials 3:**
 
-```
-Need to change
-store_url in db_connect.php
+Id : keerthi
 
-Login Credentials
-Id : admin
-password : admin
-```
+password : keerthi@123
+
+
+
+##**LOGO:**
+![WhatsApp Image 2025-02-23 at 01 16 22_1cf1a3fd](https://github.com/user-attachments/assets/c4aba946-6863-4166-8c96-8ddf9fdcd064)
+.
+.
+.
+
+
+
+
+##**DASHBOARD:**
+![WhatsApp Image 2025-02-23 at 18 47 01_37da6491](https://github.com/user-attachments/assets/37dc75cb-9d10-4d43-8dcd-3fd34c4713c5)
+.
+.
+.
+
+
+
+
+**BRANDS:**
+![WhatsApp Image 2025-02-23 at 01 57 26_2bba498b](https://github.com/user-attachments/assets/9d152b86-a49d-4ade-a99b-7fbf2c105501)
+
+.
+.
+.
+
+
+
+
+**ORDERS:**
+![WhatsApp Image 2025-02-23 at 01 49 29_2c5bc78b](https://github.com/user-attachments/assets/3b669d67-f136-44bd-92f0-6bd60d4b78cc)
+
+.
+.
+.
+
+
+
+
+**BILL:**
+![WhatsApp Image 2025-02-23 at 01 49 52_b1ba6f10](https://github.com/user-attachments/assets/d0e88db9-69b9-4c23-8e6b-4252af239120)
+
+
