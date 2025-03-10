@@ -1,4 +1,4 @@
-##**Login Credentials 1:**
+**Login Credentials 1:**
 
 Id : venky
 
@@ -8,7 +8,7 @@ password : admin
 
 
 
-##**LOGO:**
+**LOGO:**
 ![WhatsApp Image 2025-02-23 at 01 16 22_02a693c0](https://github.com/user-attachments/assets/46b174c3-17ab-4ac4-bb3c-a89fcff6b609)
 
 .
@@ -18,7 +18,7 @@ password : admin
 
 
 
-##**DASHBOARD:**
+**DASHBOARD:**
 ![WhatsApp Image 2025-03-11 at 02 02 47_0bb73aaa](https://github.com/user-attachments/assets/7107dd97-a43d-437f-83f6-9ab9045e6ea7)
 
 .
