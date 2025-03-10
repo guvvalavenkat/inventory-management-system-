@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/860c6d75-2ddb-485d-8430-9d568b3d9e28)# Admin Requirement
-
 ##**Login Credentials 1:**
 
 Id : venky
@@ -9,8 +7,10 @@ password : admin
 
 
 
+
 ##**LOGO:**
-![WhatsApp Image 2025-02-23 at 01 16 22_1cf1a3fd](https://github.com/user-attachments/assets/c4aba946-6863-4166-8c96-8ddf9fdcd064)
+![WhatsApp Image 2025-02-23 at 01 16 22_02a693c0](https://github.com/user-attachments/assets/46b174c3-17ab-4ac4-bb3c-a89fcff6b609)
+
 .
 .
 .
@@ -35,17 +35,14 @@ password : admin
 .
 .
 .
+
+
 **PRODUCTS:**
 ![WhatsApp Image 2025-03-11 at 02 05 30_3dd5c828](https://github.com/user-attachments/assets/3bc54e2d-d2ad-4207-8378-c272ec96b99d)
 
-
-
-
 .
 .
 .
-
-
 
 
 
