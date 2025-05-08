@@ -73,7 +73,7 @@ Auto-generate bills after order placement.
 ## 🧑‍💻 Technologies Used
 
 - **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP / Node.js (if applicable)
+- **Backend:** PHP 
 - **Database:** MySQL
 
 ---
